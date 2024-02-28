@@ -1,0 +1,15 @@
+{
+  "name": "Coderfren",
+  "description": "Landing page for the Software Engineer community Discord server",
+  "scripts": {
+    "watch:tw": "npx tailwindcss -i ./raw.css -o ./app.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  },
+  "keywords": [
+    "landing page",
+    "discord server"
+  ],
+"author": "fajarwz"
+}
